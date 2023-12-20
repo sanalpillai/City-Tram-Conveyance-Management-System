@@ -42,6 +42,16 @@ You can find the following SQL scripts in this repository:
 
 Please refer to these scripts for database setup, data manipulation, and additional database features.
 
+## Data Visualization
+
+We have also provided data visualization files to help you analyze and understand the data. You can find the following visualization files:
+
+- [Visualization.pdf](Data%20Visualization/Visualization.pdf): A PDF document containing data visualizations created using Power BI.
+
+- [Visualization.pbix](Data%20Visualization/Visualization.pbix): A Power BI Desktop file that allows you to interact with and explore the data visualizations.
+
+Please use these files to gain insights from the data in a visual format.
+
 ## Entities
 
 | Sr No. | Entity Description |
