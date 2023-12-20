@@ -4,6 +4,15 @@
 
 The City Tram Conveyance Management System is a comprehensive database solution designed to efficiently manage all aspects of a city's tram service. This centralized database stores, organizes, and maintains critical data related to tram routes, passengers, tickets, and drivers associated with the tram service.
 
+## Features
+
+- Centralized storage and management of tram-related data.
+- Data-driven insights for optimizing tram operations.
+- Enhanced customer experience through efficient scheduling and clear routes.
+- Cost conservation through automated billing and fare optimization.
+- Robust data security measures to protect user and system data.
+- Scalability to support the growth of the tram company and adapt to changing city dynamics.
+
 ## Business Problems Addressed
 
 Through this database system, we aim to address the following business problems:
@@ -144,3 +153,43 @@ We have made the following design decisions based on the entities mentioned in t
 ## Enhanced Entity Relationship (EER) Model
 
 ![P3 Final ERD](https://github.com/sanalpillai/City-Tram-Conveyance-Management-System/assets/30967322/fb23b519-f305-4cde-acd7-67fc2473391b)
+
+## How to Run
+
+To run the City Tram Conveyance Management System, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Set up a database system (e.g., MySQL) and execute the provided SQL scripts to create the database schema.
+3. Configure the database connection settings in the Python GUI application files (`mainscreen.py`, `passenger.py`, `route.py`, `tram.py`, `locality.py`).
+4. Run the Python GUI application to interact with the database and perform CRUD operations on passenger, route, tram, and locality data.
+
+## Dependencies
+
+The system has the following dependencies:
+
+- Database system (e.g., MySQL, SQL Server Management Studio (SSMS))
+- Python for the GUI application
+
+## Security Measures
+
+To ensure data security, the following measures have been implemented:
+
+- Access control to restrict data access to authorized personnel only.
+- Data encryption for sensitive information.
+- Regular maintenance checks to ensure system integrity.
+- Logging and tracking of system activities for audit purposes.
+
+## Contributions
+
+Contributors to this project:
+
+- SANAL PILLAI
+- SIDDHARTH PAWAR
+- SRIRAM VENKATESH
+- RAMY SOLANKI
+- RISHABH PATEL
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
