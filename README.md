@@ -33,23 +33,23 @@ Through this database system, we aim to address the following business problems:
 
 You can find the following SQL scripts in this repository:
 
-- [P4 Insert Statements.sql](P4%20Insert%20Statements.sql): SQL script for inserting data into the database.
+- [Insert Statements.sql](P4%20Insert%20Statements.sql): SQL script for inserting data into the database.
 
-- [P4 Non Clustered Indexes.sql](P4%20Non%20Clustered%20Indexes.sql): SQL script for creating non-clustered indexes.
+- [Non Clustered Indexes.sql](P4%20Non%20Clustered%20Indexes.sql): SQL script for creating non-clustered indexes.
 
-- [P4 Stored Procedures.sql](P4%20Stored%20Procedures.sql): SQL script containing stored procedures for database operations.
+- [Stored Procedures.sql](P4%20Stored%20Procedures.sql): SQL script containing stored procedures for database operations.
 
-- [P4 Table Level Check Constraints.sql](P4%20Table%20Level%20Check%20Constraints.sql): SQL script for defining table-level check constraints.
+- [Table Level Check Constraints.sql](P4%20Table%20Level%20Check%20Constraints.sql): SQL script for defining table-level check constraints.
 
-- [P4 User Defined Function.sql](P4%20User%20Defined%20Function.sql): SQL script for creating user-defined functions.
+- [User Defined Function.sql](P4%20User%20Defined%20Function.sql): SQL script for creating user-defined functions.
 
-- [P4 Views.sql](P4%20Views.sql): SQL script for defining database views.
+- [Views.sql](P4%20Views.sql): SQL script for defining database views.
 
-- [P4 Column Data Encryption.sql](P4%20Column%20Data%20Encryption.sql): SQL script for encrypting column data.
+- [Column Data Encryption.sql](P4%20Column%20Data%20Encryption.sql): SQL script for encrypting column data.
 
-- [P4 DDL Statements.sql](P4%20DDL%20Statements.sql): SQL script containing database schema definition statements.
+- [DDL Statements.sql](P4%20DDL%20Statements.sql): SQL script containing database schema definition statements.
 
-- [P4 DML Trigger.sql](P4%20DML%20Trigger.sql): SQL script for defining data manipulation language (DML) triggers.
+- [DML Trigger.sql](P4%20DML%20Trigger.sql): SQL script for defining data manipulation language (DML) triggers.
 
 Please refer to these scripts for database setup, data manipulation, and additional database features.
 
