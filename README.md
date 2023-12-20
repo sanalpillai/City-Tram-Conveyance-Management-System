@@ -170,15 +170,6 @@ The system has the following dependencies:
 - Database system (e.g., MySQL, SQL Server Management Studio (SSMS))
 - Python for the GUI application
 
-## Security Measures
-
-To ensure data security, the following measures have been implemented:
-
-- Access control to restrict data access to authorized personnel only.
-- Data encryption for sensitive information.
-- Regular maintenance checks to ensure system integrity.
-- Logging and tracking of system activities for audit purposes.
-
 ## Contributions
 
 Contributors to this project:
