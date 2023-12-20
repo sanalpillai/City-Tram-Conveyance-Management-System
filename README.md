@@ -50,6 +50,9 @@ We have also provided data visualization files to help you analyze and understan
 
 - [Visualization.pbix](Data%20Visualization/Visualization.pbix): A Power BI Desktop file that allows you to interact with and explore the data visualizations.
 
+- ![image](https://github.com/sanalpillai/City-Tram-Conveyance-Management-System/assets/30967322/7f533983-3861-4480-8d7e-f554411b0d6a)
+
+
 Please use these files to gain insights from the data in a visual format.
 
 ## Entities
