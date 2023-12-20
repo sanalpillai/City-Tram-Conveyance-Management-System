@@ -20,6 +20,8 @@ Through this database system, we aim to address the following business problems:
 
 - **Adaptability:** Form an adaptable system that can accommodate the changing dynamics of the city to support the tram company's growth and future alterations.
 
+## SQL Scripts
+
 You can find the following SQL scripts in this repository:
 
 - [P4 Insert Statements.sql](P4%20Insert%20Statements.sql): SQL script for inserting data into the database.
@@ -52,8 +54,23 @@ We have also provided data visualization files to help you analyze and understan
 
   ![image](https://github.com/sanalpillai/City-Tram-Conveyance-Management-System/assets/30967322/7f533983-3861-4480-8d7e-f554411b0d6a)
 
-
 Please use these files to gain insights from the data in a visual format.
+
+## GUI Application
+
+We have developed a Python GUI application that provides CRUD (Create, Read, Update, Delete) database functions for the following tables:
+
+- [mainscreen.py](GUI/mainscreen.py): Main screen of the GUI application.
+
+- [passenger.py](GUI/passenger.py): GUI for managing passenger data.
+
+- [route.py](GUI/route.py): GUI for managing tram route data.
+
+- [tram.py](GUI/tram.py): GUI for managing tram data.
+
+- [locality.py](GUI/locality.py): GUI for managing locality data.
+
+These GUI files allow for easy interaction with the database and performing essential operations on passenger, route, tram, and locality data.
 
 ## Entities
 
