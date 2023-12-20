@@ -183,11 +183,11 @@ To ensure data security, the following measures have been implemented:
 
 Contributors to this project:
 
-- SANAL PILLAI
-- SIDDHARTH PAWAR
-- SRIRAM VENKATESH
-- RAMY SOLANKI
-- RISHABH PATEL
+- Sanal Pillai
+- Siddharth Pawar
+- Sriram Venkatesh
+- Ramy Solanki
+- Rishabh Patel
 
 ## License
 
