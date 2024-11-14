@@ -170,16 +170,6 @@ The system has the following dependencies:
 - Database system (e.g., MySQL, SQL Server Management Studio (SSMS))
 - Python for the GUI application
 
-## Contributions
-
-Contributors to this project:
-
-- Sanal Pillai
-- Siddharth Pawar
-- Sriram Venkatesh
-- Ramy Solanki
-- Rishabh Patel
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
